@@ -4,9 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
-### More Information
+### Interests
 
-A place to include any other types of information that you'd like to include about yourself.
+I like to fold paper, dance, and eat desserts.
 
+### Favorites
+
+My favorite movie is Black Swan. I like a lot of music, so I can't decide on a favorite.
