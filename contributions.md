@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 5   | https://en.wikipedia.org/w/index.php?title=Lean_In&oldid=prev&diff=1137724360   | Wikipedia    |   I cut down for clarity, added context for some critics.   |
+| Feb 5   | [*Lean In*](https://en.wikipedia.org/w/index.php?title=Lean_In&oldid=prev&diff=1137724360)   | Wikipedia    |   I cut down for clarity, added context for some critics.   |
 |     |     |     |      |
 |     |     |     |      |
