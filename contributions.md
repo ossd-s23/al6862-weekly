@@ -27,3 +27,4 @@ Replace the first row with your own contribution.
 | Feb 13    | [OpenStreetMap Survey](https://www.openstreetmap.org/changeset/132512566)    | OpenStretMap    | Edited tags to indicate store closed     |
 | Feb 24    | [p5.js Contributor Docs](https://github.com/processing/p5.js/pull/6039)    | p5.js    | Removed navbar document that led to dead links     |
 | Mar 11    | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/49684)    | freeCodeCamp    | Changed wording from "SVG canvas" to "SVG" in course     |
+| Mar 25    | [Processing Foundation CC Fest](https://ccfest.rocks/virtualccfest)    | Processing Foundation    | Volunteered and moderated a session     |
