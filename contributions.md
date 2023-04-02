@@ -22,8 +22,9 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 5   | [*Lean In*](https://en.wikipedia.org/w/index.php?title=Lean_In&oldid=prev&diff=1137724360)   | Wikipedia    |   Cut down for clarity, added context for some critics.   |
+| Feb 5   | [*Lean In*](https://en.wikipedia.org/w/index.php?title=Lean_In&oldid=prev&diff=1137724360)   | Wikipedia    |   Cut down for clarity, added context for some critics   |
 | Feb 13   | [OpenStreetMap Survey](https://www.openstreetmap.org/note/3533289)     | OpenStreetMap    | Resolved a note on local supermarket    |
 | Feb 13    | [OpenStreetMap Survey](https://www.openstreetmap.org/changeset/132512566)    | OpenStretMap    | Edited tags to indicate store closed     |
 | Feb 24    | [p5.js Contributor Docs](https://github.com/processing/p5.js/pull/6039)    | p5.js    | Removed navbar document that led to dead links     |
 | Mar 11    | [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/49684)    | freeCodeCamp    | Changed wording from "SVG canvas" to "SVG" in course     |
+| Apr 1    | [*Li Yuchun*](https://en.wikipedia.org/w/index.php?title=Li_Yuchun&diff=1147756317&oldid=1110975557&diffmode=source)    | Wikipedia    | Cut down unnecessary info, added balance     |
